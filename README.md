@@ -1,1 +1,1 @@
-# AngularPress
+# tutor-ng-press
