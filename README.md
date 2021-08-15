@@ -1,1 +1,1 @@
-# ng-press
+# angular-press
